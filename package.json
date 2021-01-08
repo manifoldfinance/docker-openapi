@@ -1,0 +1,12 @@
+{
+  "name": "widdershins-docker",
+  "version": "1.0.0",
+  "description": "[![Docker Repository on Quay](https://quay.io/repository/verygoodsecurity/widdershins-docker/status \"Docker Repository on Quay\")](https://quay.io/repository/verygoodsecurity/widdershins-docker)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
